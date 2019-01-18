@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkTimeAuto", "WorkTimeAuto\WorkTimeAuto.csproj", "{262E981A-53A6-4AD5-94F2-6AA123368840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{262E981A-53A6-4AD5-94F2-6AA123368840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262E981A-53A6-4AD5-94F2-6AA123368840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262E981A-53A6-4AD5-94F2-6AA123368840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262E981A-53A6-4AD5-94F2-6AA123368840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7422DDF3-1308-4C5C-9F14-A983634C56ED}
+	EndGlobalSection
+EndGlobal

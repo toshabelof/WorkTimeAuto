@@ -1,0 +1,7 @@
+C:\Users\Антон\Desktop\WorkTimeAuto\WorkTimeAuto\WorkTimeAuto\bin\Debug\WorkTimeAuto.exe.config
+C:\Users\Антон\Desktop\WorkTimeAuto\WorkTimeAuto\WorkTimeAuto\bin\Debug\WorkTimeAuto.exe
+C:\Users\Антон\Desktop\WorkTimeAuto\WorkTimeAuto\WorkTimeAuto\bin\Debug\WorkTimeAuto.pdb
+C:\Users\Антон\Desktop\WorkTimeAuto\WorkTimeAuto\WorkTimeAuto\obj\Debug\WorkTimeAuto.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\WorkTimeAuto\WorkTimeAuto\WorkTimeAuto\obj\Debug\WorkTimeAuto.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\WorkTimeAuto\WorkTimeAuto\WorkTimeAuto\obj\Debug\WorkTimeAuto.exe
+C:\Users\Антон\Desktop\WorkTimeAuto\WorkTimeAuto\WorkTimeAuto\obj\Debug\WorkTimeAuto.pdb
