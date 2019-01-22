@@ -48,7 +48,7 @@ namespace WorkTimeAuto
                     }
                 case "work":
                     {
-                        Console.WriteLine("Отработано: " + workTime.Elapsed);
+                        Console.WriteLine(System.DateTime.Now + " Отработано: " + workTime.Elapsed);
                         goto Start; break;
                     }
                 default:
